@@ -1,0 +1,14 @@
+{
+  "name": "soenv",
+  "version": "1.0.2",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro M Melo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0"
+  }
+}
