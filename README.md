@@ -27,9 +27,9 @@ PATH=/app/local/teste
 
 ### Code
 
-const MOENV = require("moenv");
+const SOENV = require("soenv");
 
-const env = new MOENV();
+const env = new SOENV();
 
 env.getValue('APP');
 env.getValue('HOSTNAME');
