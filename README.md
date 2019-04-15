@@ -15,9 +15,14 @@ set with path for your app .env
 ### app.env
 
 APP=myapp
+
 HOSTNAME=localhost
+
 PORT=8080
+
 PATH=/app/local/teste
+
+
 
 
 ### Code
