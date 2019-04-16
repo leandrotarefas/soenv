@@ -31,6 +31,8 @@ MyEnv.prototype.getLogPath = function(key) {
     }else{
         path_value = process.env.log_path_env_other
     }
+
+    return path_valueç
     
 }
 
